@@ -2,7 +2,7 @@
 
 Your submission must satisfy the following requirements:
 
-* R1. Shall initialize your assignment repository from https://classroom.github.com/a/fwMbj4T1
+* R1. Shall initialize your assignment repository from [https://classroom.github.com/a/fwMbj4T1](https://classroom.github.com/a/esM5-MpH)
 * R2. Write your `invoke_analyzer.py` in the repository.
 * R3. Test your `invoke_analyzer.py` by using `pytest`.
 * R4. You need to let your TA know your repository URL and your student ID together via Slack.
