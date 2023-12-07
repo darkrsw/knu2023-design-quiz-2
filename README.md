@@ -9,7 +9,7 @@ Your submission must satisfy the following requirements:
 * R5. Check out `test_analyzer1.py` to figure out the output format.
 * R6. Assume that there are "NO" nested classes/methods, overloaded methods, and anonymous classes.
 * R7. Assume that there are nested directories in the input path.
-* R8. The function `collect_uninvoked_methods(...)` takes a path of a directory containing multiple Python source code files, and produces a map of classes. The keys of the map are classes, and the values are a set of methods that are never invoked by their own classes. If there is no uninvoked method, the value should be an empty set (`{}`).
+* R8. The function `collect_uninvoked_methods(...)` takes a path of a directory containing multiple Python source code files, and produces a map of classes. The keys of the map are classes, and the values are a set of methods that are never invoked by their own classes. If there is no uninvoked method, the value should be an empty set (`set()`).
 * R9. The returned value of the above function should include **ONLY** classes defined in the Python files.
 
 
