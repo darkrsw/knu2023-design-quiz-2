@@ -1,8 +1,8 @@
 from invoke_analyzer import collect_uninvoked_methods
 
 test_input_path = "./src"
-input_one ="./myapp"
-input_two ="./buildozer"
+input_one ="./myapp/"
+input_two ="./buildozer/"
 input_three ="./Sudoku-Solver"
 input_four ="./contrib"
 
